@@ -191,6 +191,18 @@ FastAPI also provides interactive docs at http://localhost:8000/docs.
 
 If PostgreSQL is unavailable, `/health` returns HTTP 503 with `{"status": "error", "db": "unreachable"}`.
 
+### Part 3a: ingest and inspect runbook retrieval
+
+Install dependencies from `requirements.txt`, start PostgreSQL with `docker compose up -d`, and run these from the repository root with the virtual environment active:
+
+```powershell
+python -m scripts.ingest_runbooks
+python -m scripts.search_incidents
+pytest
+```
+
+The ingestion command chunks the Markdown runbooks, embeds passages locally with FastEmbed, and upserts them into the `runbook_chunks` pgvector table. The search command prints each incident alert's top chunk IDs, cosine similarity scores (higher is better), and the score gap between the first two results. Part 3a does not apply an evidence threshold or call an LLM. Review the printed scores before choosing a threshold for Part 3b.
+
 ### Generate and validate Stage 2 incident data
 
 With the virtual environment active, run these commands from the repository root:
@@ -214,6 +226,11 @@ All settings are loaded from environment variables (see `.env.example`). Never c
 | `POSTGRES_DB` | Database name | `traceguard` |
 | `POSTGRES_HOST` | Database host | `localhost` |
 | `POSTGRES_PORT` | Database port | `5432` |
+| `RUNBOOK_CHUNK_SIZE` | Maximum characters per runbook chunk | `500` |
+| `RUNBOOK_CHUNK_OVERLAP` | Characters shared between adjacent chunks | `80` |
+| `RAG_TOP_K` | Number of runbook chunks to show per alert | `4` |
+
+`RAG_MIN_SCORE` is present in application settings for later thresholding, but Part 3a does not apply it. Choose a value only after reviewing the retrieval scores and top-two gaps.
 
 Added in later stages:
 
