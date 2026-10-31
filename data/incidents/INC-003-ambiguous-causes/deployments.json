@@ -1,0 +1,10 @@
+[
+  {
+    "deployment_id": "DEP-INC003-001",
+    "timestamp": "2025-02-14T09:10:00Z",
+    "service": "catalog-api",
+    "version": "5.8.2",
+    "previous_version": "5.8.1",
+    "summary": "Routine catalog release; no confirmed related change."
+  }
+]

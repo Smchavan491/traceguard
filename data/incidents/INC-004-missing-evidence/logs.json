@@ -1,0 +1,1122 @@
+[
+  {
+    "log_id": "LOG-INC004-001",
+    "timestamp": "2025-02-14T09:00:00Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC004-002",
+    "timestamp": "2025-02-14T09:00:13Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC004-003",
+    "timestamp": "2025-02-14T09:00:24Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC004-004",
+    "timestamp": "2025-02-14T09:00:35Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC004-005",
+    "timestamp": "2025-02-14T09:00:44Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC004-006",
+    "timestamp": "2025-02-14T09:00:58Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC004-007",
+    "timestamp": "2025-02-14T09:01:10Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "configuration loaded"
+  },
+  {
+    "log_id": "LOG-INC004-008",
+    "timestamp": "2025-02-14T09:01:17Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC004-009",
+    "timestamp": "2025-02-14T09:01:32Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC004-010",
+    "timestamp": "2025-02-14T09:01:42Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC004-011",
+    "timestamp": "2025-02-14T09:01:51Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC004-012",
+    "timestamp": "2025-02-14T09:02:01Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC004-013",
+    "timestamp": "2025-02-14T09:02:12Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC004-014",
+    "timestamp": "2025-02-14T09:02:27Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC004-015",
+    "timestamp": "2025-02-14T09:02:34Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC004-016",
+    "timestamp": "2025-02-14T09:02:48Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "configuration loaded"
+  },
+  {
+    "log_id": "LOG-INC004-017",
+    "timestamp": "2025-02-14T09:02:57Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC004-018",
+    "timestamp": "2025-02-14T09:03:11Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC004-019",
+    "timestamp": "2025-02-14T09:03:18Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC004-020",
+    "timestamp": "2025-02-14T09:03:32Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC004-021",
+    "timestamp": "2025-02-14T09:03:44Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC004-022",
+    "timestamp": "2025-02-14T09:03:53Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC004-023",
+    "timestamp": "2025-02-14T09:04:06Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC004-024",
+    "timestamp": "2025-02-14T09:04:14Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC004-025",
+    "timestamp": "2025-02-14T09:04:27Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC004-026",
+    "timestamp": "2025-02-14T09:04:38Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC004-027",
+    "timestamp": "2025-02-14T09:04:50Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "configuration loaded"
+  },
+  {
+    "log_id": "LOG-INC004-028",
+    "timestamp": "2025-02-14T09:05:00Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC004-029",
+    "timestamp": "2025-02-14T09:05:08Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC004-030",
+    "timestamp": "2025-02-14T09:05:21Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC004-031",
+    "timestamp": "2025-02-14T09:05:33Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC004-032",
+    "timestamp": "2025-02-14T09:05:45Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC004-033",
+    "timestamp": "2025-02-14T09:05:55Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC004-034",
+    "timestamp": "2025-02-14T09:06:06Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC004-035",
+    "timestamp": "2025-02-14T09:06:15Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC004-036",
+    "timestamp": "2025-02-14T09:06:26Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC004-037",
+    "timestamp": "2025-02-14T09:06:39Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC004-038",
+    "timestamp": "2025-02-14T09:06:51Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC004-039",
+    "timestamp": "2025-02-14T09:06:59Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "configuration loaded"
+  },
+  {
+    "log_id": "LOG-INC004-040",
+    "timestamp": "2025-02-14T09:07:09Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC004-041",
+    "timestamp": "2025-02-14T09:07:23Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC004-042",
+    "timestamp": "2025-02-14T09:07:33Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC004-043",
+    "timestamp": "2025-02-14T09:07:46Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC004-044",
+    "timestamp": "2025-02-14T09:07:53Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC004-045",
+    "timestamp": "2025-02-14T09:08:08Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC004-046",
+    "timestamp": "2025-02-14T09:08:16Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC004-047",
+    "timestamp": "2025-02-14T09:08:30Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC004-048",
+    "timestamp": "2025-02-14T09:08:41Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC004-049",
+    "timestamp": "2025-02-14T09:08:52Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC004-050",
+    "timestamp": "2025-02-14T09:09:02Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC004-051",
+    "timestamp": "2025-02-14T09:09:11Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC004-052",
+    "timestamp": "2025-02-14T09:09:21Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC004-053",
+    "timestamp": "2025-02-14T09:09:35Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC004-054",
+    "timestamp": "2025-02-14T09:09:43Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC004-055",
+    "timestamp": "2025-02-14T09:09:57Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC004-056",
+    "timestamp": "2025-02-14T09:10:05Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC004-057",
+    "timestamp": "2025-02-14T09:10:20Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "configuration loaded"
+  },
+  {
+    "log_id": "LOG-INC004-058",
+    "timestamp": "2025-02-14T09:10:27Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC004-059",
+    "timestamp": "2025-02-14T09:10:38Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC004-060",
+    "timestamp": "2025-02-14T09:10:49Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC004-061",
+    "timestamp": "2025-02-14T09:11:00Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC004-062",
+    "timestamp": "2025-02-14T09:11:14Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "configuration loaded"
+  },
+  {
+    "log_id": "LOG-INC004-063",
+    "timestamp": "2025-02-14T09:11:24Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC004-064",
+    "timestamp": "2025-02-14T09:11:36Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC004-065",
+    "timestamp": "2025-02-14T09:11:44Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC004-066",
+    "timestamp": "2025-02-14T09:11:57Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC004-067",
+    "timestamp": "2025-02-14T09:12:09Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC004-068",
+    "timestamp": "2025-02-14T09:12:21Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC004-069",
+    "timestamp": "2025-02-14T09:12:28Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC004-070",
+    "timestamp": "2025-02-14T09:12:39Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC004-071",
+    "timestamp": "2025-02-14T09:12:52Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC004-072",
+    "timestamp": "2025-02-14T09:13:02Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC004-073",
+    "timestamp": "2025-02-14T09:13:16Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC004-074",
+    "timestamp": "2025-02-14T09:13:26Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC004-075",
+    "timestamp": "2025-02-14T09:13:34Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC004-076",
+    "timestamp": "2025-02-14T09:13:46Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC004-077",
+    "timestamp": "2025-02-14T09:13:56Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC004-078",
+    "timestamp": "2025-02-14T09:14:08Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC004-079",
+    "timestamp": "2025-02-14T09:14:21Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC004-080",
+    "timestamp": "2025-02-14T09:14:30Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC004-081",
+    "timestamp": "2025-02-14T09:14:44Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC004-082",
+    "timestamp": "2025-02-14T09:14:54Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC004-083",
+    "timestamp": "2025-02-14T09:15:06Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC004-084",
+    "timestamp": "2025-02-14T09:15:16Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "configuration loaded"
+  },
+  {
+    "log_id": "LOG-INC004-085",
+    "timestamp": "2025-02-14T09:15:24Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC004-086",
+    "timestamp": "2025-02-14T09:15:37Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC004-087",
+    "timestamp": "2025-02-14T09:15:46Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC004-088",
+    "timestamp": "2025-02-14T09:16:00Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC004-089",
+    "timestamp": "2025-02-14T09:16:11Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "configuration loaded"
+  },
+  {
+    "log_id": "LOG-INC004-090",
+    "timestamp": "2025-02-14T09:16:20Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC004-091",
+    "timestamp": "2025-02-14T09:16:33Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "configuration loaded"
+  },
+  {
+    "log_id": "LOG-INC004-092",
+    "timestamp": "2025-02-14T09:16:43Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC004-093",
+    "timestamp": "2025-02-14T09:16:56Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC004-094",
+    "timestamp": "2025-02-14T09:17:04Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC004-095",
+    "timestamp": "2025-02-14T09:17:15Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC004-096",
+    "timestamp": "2025-02-14T09:17:25Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC004-097",
+    "timestamp": "2025-02-14T09:17:36Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC004-098",
+    "timestamp": "2025-02-14T09:17:48Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC004-099",
+    "timestamp": "2025-02-14T09:18:01Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC004-100",
+    "timestamp": "2025-02-14T09:18:13Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC004-101",
+    "timestamp": "2025-02-14T09:18:22Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC004-102",
+    "timestamp": "2025-02-14T09:18:34Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC004-103",
+    "timestamp": "2025-02-14T09:18:44Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC004-104",
+    "timestamp": "2025-02-14T09:18:57Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC004-105",
+    "timestamp": "2025-02-14T09:19:07Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC004-106",
+    "timestamp": "2025-02-14T09:19:18Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC004-107",
+    "timestamp": "2025-02-14T09:19:30Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC004-108",
+    "timestamp": "2025-02-14T09:19:39Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC004-109",
+    "timestamp": "2025-02-14T09:19:49Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC004-110",
+    "timestamp": "2025-02-14T09:20:02Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC004-111",
+    "timestamp": "2025-02-14T09:20:10Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC004-112",
+    "timestamp": "2025-02-14T09:20:21Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC004-113",
+    "timestamp": "2025-02-14T09:20:36Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC004-114",
+    "timestamp": "2025-02-14T09:20:47Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC004-115",
+    "timestamp": "2025-02-14T09:20:55Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC004-116",
+    "timestamp": "2025-02-14T09:21:06Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC004-117",
+    "timestamp": "2025-02-14T09:21:20Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC004-118",
+    "timestamp": "2025-02-14T09:21:29Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC004-119",
+    "timestamp": "2025-02-14T09:21:40Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC004-120",
+    "timestamp": "2025-02-14T09:21:52Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC004-121",
+    "timestamp": "2025-02-14T09:22:02Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC004-122",
+    "timestamp": "2025-02-14T09:22:13Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC004-123",
+    "timestamp": "2025-02-14T09:22:24Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC004-124",
+    "timestamp": "2025-02-14T09:22:37Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC004-125",
+    "timestamp": "2025-02-14T09:22:46Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC004-126",
+    "timestamp": "2025-02-14T09:22:55Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC004-127",
+    "timestamp": "2025-02-14T09:23:06Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC004-128",
+    "timestamp": "2025-02-14T09:23:19Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC004-129",
+    "timestamp": "2025-02-14T09:23:31Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC004-130",
+    "timestamp": "2025-02-14T09:23:39Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC004-131",
+    "timestamp": "2025-02-14T09:23:53Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC004-132",
+    "timestamp": "2025-02-14T09:24:01Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "configuration loaded"
+  },
+  {
+    "log_id": "LOG-INC004-133",
+    "timestamp": "2025-02-14T09:24:12Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC004-134",
+    "timestamp": "2025-02-14T09:24:24Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC004-135",
+    "timestamp": "2025-02-14T09:24:35Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC004-136",
+    "timestamp": "2025-02-14T09:24:48Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC004-137",
+    "timestamp": "2025-02-14T09:24:57Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC004-138",
+    "timestamp": "2025-02-14T09:25:08Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC004-139",
+    "timestamp": "2025-02-14T09:25:18Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC004-140",
+    "timestamp": "2025-02-14T09:25:29Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC004-141",
+    "timestamp": "2025-02-14T09:25:44Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC004-142",
+    "timestamp": "2025-02-14T09:25:53Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC004-143",
+    "timestamp": "2025-02-14T09:26:04Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC004-144",
+    "timestamp": "2025-02-14T09:26:16Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC004-145",
+    "timestamp": "2025-02-14T09:26:25Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC004-146",
+    "timestamp": "2025-02-14T09:26:36Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "configuration loaded"
+  },
+  {
+    "log_id": "LOG-INC004-147",
+    "timestamp": "2025-02-14T09:26:49Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC004-148",
+    "timestamp": "2025-02-14T09:26:58Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC004-149",
+    "timestamp": "2025-02-14T09:27:10Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC004-150",
+    "timestamp": "2025-02-14T09:27:22Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "configuration loaded"
+  },
+  {
+    "log_id": "LOG-INC004-151",
+    "timestamp": "2025-02-14T09:27:31Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC004-152",
+    "timestamp": "2025-02-14T09:27:45Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC004-153",
+    "timestamp": "2025-02-14T09:27:53Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "configuration loaded"
+  },
+  {
+    "log_id": "LOG-INC004-154",
+    "timestamp": "2025-02-14T09:28:05Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC004-155",
+    "timestamp": "2025-02-14T09:28:17Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC004-156",
+    "timestamp": "2025-02-14T09:28:29Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC004-157",
+    "timestamp": "2025-02-14T09:28:40Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC004-158",
+    "timestamp": "2025-02-14T09:28:47Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "configuration loaded"
+  },
+  {
+    "log_id": "LOG-INC004-159",
+    "timestamp": "2025-02-14T09:29:02Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC004-160",
+    "timestamp": "2025-02-14T09:29:11Z",
+    "service": "profile-api",
+    "level": "INFO",
+    "message": "configuration loaded"
+  }
+]

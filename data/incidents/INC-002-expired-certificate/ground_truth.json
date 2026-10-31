@@ -1,0 +1,12 @@
+{
+  "ground_truth_id": "GT-INC002-001",
+  "incident_id": "INC-002",
+  "root_cause": "The storefront TLS certificate expired before the scheduled renewal completed.",
+  "key_evidence_ids": [
+    "LOG-INC002-093"
+  ],
+  "correct_action": "Ask the certificate owner to renew and reload the certificate after confirming the served chain.",
+  "difficulty": "clear",
+  "expected_behavior": "diagnose",
+  "acceptable_causes": null
+}

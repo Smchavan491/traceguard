@@ -1,0 +1,16 @@
+{
+  "ground_truth_id": "GT-INC003-001",
+  "incident_id": "INC-003",
+  "root_cause": "Evidence supports two plausible causes: inventory database saturation or a search-service retry storm; available logs do not distinguish them.",
+  "key_evidence_ids": [
+    "LOG-INC003-052",
+    "LOG-INC003-118"
+  ],
+  "correct_action": "Request aligned inventory database metrics and search-service retry counts before choosing a cause.",
+  "difficulty": "ambiguous",
+  "expected_behavior": "ask_for_info",
+  "acceptable_causes": [
+    "Inventory database saturation is delaying catalog reads.",
+    "Search-service retries are consuming catalog request capacity."
+  ]
+}

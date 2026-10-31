@@ -78,7 +78,7 @@ Work **one stage at a time**. Do not build features from later stages.
 | Stage | Goal | Status |
 |---|---|---|
 | 1 | Repo skeleton, Postgres + pgvector, `/health` endpoint | **Done** |
-| 2 | Synthetic incident data and ground-truth format | Not started |
+| 2 | Synthetic incident data and ground-truth format | **In progress** |
 | 3 | Runbook ingestion and baseline RAG with citations | Not started |
 | 4 | Investigation tools: log search, deploy history, dependency lookup | Not started |
 | 5 | LangGraph investigation workflow with bounded retries | Not started |
@@ -86,7 +86,7 @@ Work **one stage at a time**. Do not build features from later stages.
 | 7 | LangSmith evaluations against three baselines | Not started |
 | 8 | Dashboard and deployment | Not started |
 
-**Stage 1 is complete. Stage 2 is next.** Do not begin Stage 2 work until asked.
+**Current stage: Stage 2 (In progress).** Allowed work: synthetic incident schemas and data, reproducible incident generation, validation, agent-safe incident loading, synthetic runbooks, and tests/documentation for these items.
 
 **Not allowed in Stage 1:** any LLM calls, LangChain, LangGraph, embeddings, or agent code.
 

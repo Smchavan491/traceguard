@@ -1,0 +1,1122 @@
+[
+  {
+    "log_id": "LOG-INC002-001",
+    "timestamp": "2025-02-14T09:00:02Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC002-002",
+    "timestamp": "2025-02-14T09:00:11Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "configuration loaded"
+  },
+  {
+    "log_id": "LOG-INC002-003",
+    "timestamp": "2025-02-14T09:00:24Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC002-004",
+    "timestamp": "2025-02-14T09:00:34Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC002-005",
+    "timestamp": "2025-02-14T09:00:46Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC002-006",
+    "timestamp": "2025-02-14T09:00:56Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC002-007",
+    "timestamp": "2025-02-14T09:01:09Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "configuration loaded"
+  },
+  {
+    "log_id": "LOG-INC002-008",
+    "timestamp": "2025-02-14T09:01:20Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC002-009",
+    "timestamp": "2025-02-14T09:01:28Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC002-010",
+    "timestamp": "2025-02-14T09:01:42Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "configuration loaded"
+  },
+  {
+    "log_id": "LOG-INC002-011",
+    "timestamp": "2025-02-14T09:01:54Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC002-012",
+    "timestamp": "2025-02-14T09:02:02Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC002-013",
+    "timestamp": "2025-02-14T09:02:15Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC002-014",
+    "timestamp": "2025-02-14T09:02:25Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC002-015",
+    "timestamp": "2025-02-14T09:02:38Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC002-016",
+    "timestamp": "2025-02-14T09:02:47Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "configuration loaded"
+  },
+  {
+    "log_id": "LOG-INC002-017",
+    "timestamp": "2025-02-14T09:02:59Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC002-018",
+    "timestamp": "2025-02-14T09:03:09Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC002-019",
+    "timestamp": "2025-02-14T09:03:18Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC002-020",
+    "timestamp": "2025-02-14T09:03:33Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC002-021",
+    "timestamp": "2025-02-14T09:03:43Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC002-022",
+    "timestamp": "2025-02-14T09:03:51Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC002-023",
+    "timestamp": "2025-02-14T09:04:04Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC002-024",
+    "timestamp": "2025-02-14T09:04:16Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "configuration loaded"
+  },
+  {
+    "log_id": "LOG-INC002-025",
+    "timestamp": "2025-02-14T09:04:26Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC002-026",
+    "timestamp": "2025-02-14T09:04:39Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC002-027",
+    "timestamp": "2025-02-14T09:04:50Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC002-028",
+    "timestamp": "2025-02-14T09:04:59Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC002-029",
+    "timestamp": "2025-02-14T09:05:08Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC002-030",
+    "timestamp": "2025-02-14T09:05:23Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC002-031",
+    "timestamp": "2025-02-14T09:05:32Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC002-032",
+    "timestamp": "2025-02-14T09:05:45Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC002-033",
+    "timestamp": "2025-02-14T09:05:55Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC002-034",
+    "timestamp": "2025-02-14T09:06:05Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC002-035",
+    "timestamp": "2025-02-14T09:06:16Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC002-036",
+    "timestamp": "2025-02-14T09:06:27Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC002-037",
+    "timestamp": "2025-02-14T09:06:36Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "configuration loaded"
+  },
+  {
+    "log_id": "LOG-INC002-038",
+    "timestamp": "2025-02-14T09:06:51Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC002-039",
+    "timestamp": "2025-02-14T09:07:01Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC002-040",
+    "timestamp": "2025-02-14T09:07:12Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC002-041",
+    "timestamp": "2025-02-14T09:07:20Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC002-042",
+    "timestamp": "2025-02-14T09:07:31Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC002-043",
+    "timestamp": "2025-02-14T09:07:44Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC002-044",
+    "timestamp": "2025-02-14T09:07:54Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC002-045",
+    "timestamp": "2025-02-14T09:08:06Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC002-046",
+    "timestamp": "2025-02-14T09:08:19Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC002-047",
+    "timestamp": "2025-02-14T09:08:30Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC002-048",
+    "timestamp": "2025-02-14T09:08:38Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC002-049",
+    "timestamp": "2025-02-14T09:08:49Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC002-050",
+    "timestamp": "2025-02-14T09:09:03Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC002-051",
+    "timestamp": "2025-02-14T09:09:11Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC002-052",
+    "timestamp": "2025-02-14T09:09:23Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC002-053",
+    "timestamp": "2025-02-14T09:09:32Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC002-054",
+    "timestamp": "2025-02-14T09:09:44Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "configuration loaded"
+  },
+  {
+    "log_id": "LOG-INC002-055",
+    "timestamp": "2025-02-14T09:09:55Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC002-056",
+    "timestamp": "2025-02-14T09:10:06Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "configuration loaded"
+  },
+  {
+    "log_id": "LOG-INC002-057",
+    "timestamp": "2025-02-14T09:10:18Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC002-058",
+    "timestamp": "2025-02-14T09:10:30Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC002-059",
+    "timestamp": "2025-02-14T09:10:39Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC002-060",
+    "timestamp": "2025-02-14T09:10:53Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC002-061",
+    "timestamp": "2025-02-14T09:11:00Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC002-062",
+    "timestamp": "2025-02-14T09:11:14Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC002-063",
+    "timestamp": "2025-02-14T09:11:25Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "configuration loaded"
+  },
+  {
+    "log_id": "LOG-INC002-064",
+    "timestamp": "2025-02-14T09:11:34Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC002-065",
+    "timestamp": "2025-02-14T09:11:45Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC002-066",
+    "timestamp": "2025-02-14T09:11:58Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC002-067",
+    "timestamp": "2025-02-14T09:12:07Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC002-068",
+    "timestamp": "2025-02-14T09:12:17Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC002-069",
+    "timestamp": "2025-02-14T09:12:32Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC002-070",
+    "timestamp": "2025-02-14T09:12:43Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "configuration loaded"
+  },
+  {
+    "log_id": "LOG-INC002-071",
+    "timestamp": "2025-02-14T09:12:52Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC002-072",
+    "timestamp": "2025-02-14T09:13:02Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC002-073",
+    "timestamp": "2025-02-14T09:13:13Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC002-074",
+    "timestamp": "2025-02-14T09:13:25Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC002-075",
+    "timestamp": "2025-02-14T09:13:36Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC002-076",
+    "timestamp": "2025-02-14T09:13:45Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC002-077",
+    "timestamp": "2025-02-14T09:14:00Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "configuration loaded"
+  },
+  {
+    "log_id": "LOG-INC002-078",
+    "timestamp": "2025-02-14T09:14:08Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC002-079",
+    "timestamp": "2025-02-14T09:14:19Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC002-080",
+    "timestamp": "2025-02-14T09:14:33Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC002-081",
+    "timestamp": "2025-02-14T09:14:40Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "configuration loaded"
+  },
+  {
+    "log_id": "LOG-INC002-082",
+    "timestamp": "2025-02-14T09:14:51Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC002-083",
+    "timestamp": "2025-02-14T09:15:06Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC002-084",
+    "timestamp": "2025-02-14T09:15:15Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC002-085",
+    "timestamp": "2025-02-14T09:15:24Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC002-086",
+    "timestamp": "2025-02-14T09:15:37Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC002-087",
+    "timestamp": "2025-02-14T09:15:46Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC002-088",
+    "timestamp": "2025-02-14T09:15:59Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC002-089",
+    "timestamp": "2025-02-14T09:16:09Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC002-090",
+    "timestamp": "2025-02-14T09:16:20Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC002-091",
+    "timestamp": "2025-02-14T09:16:32Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC002-092",
+    "timestamp": "2025-02-14T09:16:41Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC002-093",
+    "timestamp": "2025-02-14T09:16:55Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC002-094",
+    "timestamp": "2025-02-14T09:17:06Z",
+    "service": "edge-gateway",
+    "level": "ERROR",
+    "message": "TLS handshake rejected: served certificate expired at 2025-02-14T08:55:00Z"
+  },
+  {
+    "log_id": "LOG-INC002-095",
+    "timestamp": "2025-02-14T09:17:17Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC002-096",
+    "timestamp": "2025-02-14T09:17:26Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC002-097",
+    "timestamp": "2025-02-14T09:17:39Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC002-098",
+    "timestamp": "2025-02-14T09:17:49Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC002-099",
+    "timestamp": "2025-02-14T09:18:02Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC002-100",
+    "timestamp": "2025-02-14T09:18:09Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC002-101",
+    "timestamp": "2025-02-14T09:18:22Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC002-102",
+    "timestamp": "2025-02-14T09:18:33Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC002-103",
+    "timestamp": "2025-02-14T09:18:44Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC002-104",
+    "timestamp": "2025-02-14T09:18:53Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC002-105",
+    "timestamp": "2025-02-14T09:19:04Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC002-106",
+    "timestamp": "2025-02-14T09:19:19Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC002-107",
+    "timestamp": "2025-02-14T09:19:30Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC002-108",
+    "timestamp": "2025-02-14T09:19:37Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "configuration loaded"
+  },
+  {
+    "log_id": "LOG-INC002-109",
+    "timestamp": "2025-02-14T09:19:52Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC002-110",
+    "timestamp": "2025-02-14T09:20:00Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC002-111",
+    "timestamp": "2025-02-14T09:20:14Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "configuration loaded"
+  },
+  {
+    "log_id": "LOG-INC002-112",
+    "timestamp": "2025-02-14T09:20:23Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC002-113",
+    "timestamp": "2025-02-14T09:20:32Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC002-114",
+    "timestamp": "2025-02-14T09:20:46Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "configuration loaded"
+  },
+  {
+    "log_id": "LOG-INC002-115",
+    "timestamp": "2025-02-14T09:20:57Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC002-116",
+    "timestamp": "2025-02-14T09:21:05Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC002-117",
+    "timestamp": "2025-02-14T09:21:18Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC002-118",
+    "timestamp": "2025-02-14T09:21:31Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC002-119",
+    "timestamp": "2025-02-14T09:21:38Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC002-120",
+    "timestamp": "2025-02-14T09:21:51Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC002-121",
+    "timestamp": "2025-02-14T09:22:02Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC002-122",
+    "timestamp": "2025-02-14T09:22:12Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC002-123",
+    "timestamp": "2025-02-14T09:22:23Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC002-124",
+    "timestamp": "2025-02-14T09:22:33Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC002-125",
+    "timestamp": "2025-02-14T09:22:48Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC002-126",
+    "timestamp": "2025-02-14T09:22:59Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC002-127",
+    "timestamp": "2025-02-14T09:23:06Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC002-128",
+    "timestamp": "2025-02-14T09:23:17Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC002-129",
+    "timestamp": "2025-02-14T09:23:30Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC002-130",
+    "timestamp": "2025-02-14T09:23:40Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC002-131",
+    "timestamp": "2025-02-14T09:23:54Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC002-132",
+    "timestamp": "2025-02-14T09:24:05Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC002-133",
+    "timestamp": "2025-02-14T09:24:16Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC002-134",
+    "timestamp": "2025-02-14T09:24:24Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC002-135",
+    "timestamp": "2025-02-14T09:24:34Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC002-136",
+    "timestamp": "2025-02-14T09:24:46Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC002-137",
+    "timestamp": "2025-02-14T09:24:56Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC002-138",
+    "timestamp": "2025-02-14T09:25:09Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC002-139",
+    "timestamp": "2025-02-14T09:25:21Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC002-140",
+    "timestamp": "2025-02-14T09:25:29Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "configuration loaded"
+  },
+  {
+    "log_id": "LOG-INC002-141",
+    "timestamp": "2025-02-14T09:25:44Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "configuration loaded"
+  },
+  {
+    "log_id": "LOG-INC002-142",
+    "timestamp": "2025-02-14T09:25:54Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC002-143",
+    "timestamp": "2025-02-14T09:26:03Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC002-144",
+    "timestamp": "2025-02-14T09:26:13Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC002-145",
+    "timestamp": "2025-02-14T09:26:24Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC002-146",
+    "timestamp": "2025-02-14T09:26:35Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC002-147",
+    "timestamp": "2025-02-14T09:26:46Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC002-148",
+    "timestamp": "2025-02-14T09:27:00Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC002-149",
+    "timestamp": "2025-02-14T09:27:12Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC002-150",
+    "timestamp": "2025-02-14T09:27:22Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC002-151",
+    "timestamp": "2025-02-14T09:27:31Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC002-152",
+    "timestamp": "2025-02-14T09:27:43Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC002-153",
+    "timestamp": "2025-02-14T09:27:52Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC002-154",
+    "timestamp": "2025-02-14T09:28:05Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC002-155",
+    "timestamp": "2025-02-14T09:28:17Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC002-156",
+    "timestamp": "2025-02-14T09:28:29Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC002-157",
+    "timestamp": "2025-02-14T09:28:38Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "configuration loaded"
+  },
+  {
+    "log_id": "LOG-INC002-158",
+    "timestamp": "2025-02-14T09:28:47Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC002-159",
+    "timestamp": "2025-02-14T09:29:00Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC002-160",
+    "timestamp": "2025-02-14T09:29:10Z",
+    "service": "edge-gateway",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  }
+]

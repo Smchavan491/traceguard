@@ -1,0 +1,13 @@
+{
+  "ground_truth_id": "GT-INC001-001",
+  "incident_id": "INC-001",
+  "root_cause": "Version 2.4.1 reduced the checkout database pool, exhausting available connections.",
+  "key_evidence_ids": [
+    "LOG-INC001-071",
+    "DEP-INC001-001"
+  ],
+  "correct_action": "Recommend rolling checkout-api back to version 2.4.0 for human approval.",
+  "difficulty": "clear",
+  "expected_behavior": "diagnose",
+  "acceptable_causes": null
+}

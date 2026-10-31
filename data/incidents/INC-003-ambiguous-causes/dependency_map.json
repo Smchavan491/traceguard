@@ -1,0 +1,16 @@
+{
+  "dependency_map_id": "DM-INC003-001",
+  "incident_id": "INC-003",
+  "edges": [
+    {
+      "dependency_id": "EDGE-INC003-001",
+      "caller": "catalog-api",
+      "callee": "inventory-api"
+    },
+    {
+      "dependency_id": "EDGE-INC003-002",
+      "caller": "catalog-api",
+      "callee": "search-api"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "incident_id": "INC-002",
+  "symptom": "clients receive TLS handshake failures when opening the storefront",
+  "service": "edge-gateway",
+  "started_at": "2025-02-14T09:20:00Z"
+}

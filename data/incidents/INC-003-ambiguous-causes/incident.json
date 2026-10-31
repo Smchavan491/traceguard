@@ -1,0 +1,6 @@
+{
+  "incident_id": "INC-003",
+  "symptom": "catalog requests intermittently time out while inventory checks are slow",
+  "service": "catalog-api",
+  "started_at": "2025-02-14T09:20:00Z"
+}

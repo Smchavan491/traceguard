@@ -1,0 +1,10 @@
+{
+  "ground_truth_id": "GT-INC004-001",
+  "incident_id": "INC-004",
+  "root_cause": "Unknown: the available incident bundle contains no failure logs or deployment history for the affected window.",
+  "key_evidence_ids": [],
+  "correct_action": "Ask for profile-api logs and deployment history covering the affected time window.",
+  "difficulty": "missing",
+  "expected_behavior": "ask_for_info",
+  "acceptable_causes": null
+}

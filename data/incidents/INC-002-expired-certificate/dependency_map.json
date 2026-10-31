@@ -1,0 +1,11 @@
+{
+  "dependency_map_id": "DM-INC002-001",
+  "incident_id": "INC-002",
+  "edges": [
+    {
+      "dependency_id": "EDGE-INC002-001",
+      "caller": "edge-gateway",
+      "callee": "storefront-api"
+    }
+  ]
+}

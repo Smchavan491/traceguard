@@ -1,0 +1,16 @@
+{
+  "dependency_map_id": "DM-INC001-001",
+  "incident_id": "INC-001",
+  "edges": [
+    {
+      "dependency_id": "EDGE-INC001-001",
+      "caller": "checkout-api",
+      "callee": "orders-db"
+    },
+    {
+      "dependency_id": "EDGE-INC001-002",
+      "caller": "checkout-api",
+      "callee": "payment-api"
+    }
+  ]
+}

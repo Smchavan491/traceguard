@@ -1,0 +1,1122 @@
+[
+  {
+    "log_id": "LOG-INC003-001",
+    "timestamp": "2025-02-14T09:00:00Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC003-002",
+    "timestamp": "2025-02-14T09:00:15Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC003-003",
+    "timestamp": "2025-02-14T09:00:25Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC003-004",
+    "timestamp": "2025-02-14T09:00:36Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC003-005",
+    "timestamp": "2025-02-14T09:00:48Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC003-006",
+    "timestamp": "2025-02-14T09:00:55Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC003-007",
+    "timestamp": "2025-02-14T09:01:08Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC003-008",
+    "timestamp": "2025-02-14T09:01:17Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC003-009",
+    "timestamp": "2025-02-14T09:01:29Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC003-010",
+    "timestamp": "2025-02-14T09:01:43Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC003-011",
+    "timestamp": "2025-02-14T09:01:53Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC003-012",
+    "timestamp": "2025-02-14T09:02:04Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC003-013",
+    "timestamp": "2025-02-14T09:02:15Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC003-014",
+    "timestamp": "2025-02-14T09:02:27Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC003-015",
+    "timestamp": "2025-02-14T09:02:38Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC003-016",
+    "timestamp": "2025-02-14T09:02:45Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC003-017",
+    "timestamp": "2025-02-14T09:03:00Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC003-018",
+    "timestamp": "2025-02-14T09:03:09Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC003-019",
+    "timestamp": "2025-02-14T09:03:18Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC003-020",
+    "timestamp": "2025-02-14T09:03:29Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC003-021",
+    "timestamp": "2025-02-14T09:03:44Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC003-022",
+    "timestamp": "2025-02-14T09:03:55Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC003-023",
+    "timestamp": "2025-02-14T09:04:02Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC003-024",
+    "timestamp": "2025-02-14T09:04:15Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC003-025",
+    "timestamp": "2025-02-14T09:04:24Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "configuration loaded"
+  },
+  {
+    "log_id": "LOG-INC003-026",
+    "timestamp": "2025-02-14T09:04:35Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC003-027",
+    "timestamp": "2025-02-14T09:04:48Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC003-028",
+    "timestamp": "2025-02-14T09:05:00Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC003-029",
+    "timestamp": "2025-02-14T09:05:11Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC003-030",
+    "timestamp": "2025-02-14T09:05:23Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC003-031",
+    "timestamp": "2025-02-14T09:05:32Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC003-032",
+    "timestamp": "2025-02-14T09:05:41Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC003-033",
+    "timestamp": "2025-02-14T09:05:55Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC003-034",
+    "timestamp": "2025-02-14T09:06:07Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC003-035",
+    "timestamp": "2025-02-14T09:06:16Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC003-036",
+    "timestamp": "2025-02-14T09:06:29Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC003-037",
+    "timestamp": "2025-02-14T09:06:37Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC003-038",
+    "timestamp": "2025-02-14T09:06:51Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC003-039",
+    "timestamp": "2025-02-14T09:07:01Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC003-040",
+    "timestamp": "2025-02-14T09:07:10Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "configuration loaded"
+  },
+  {
+    "log_id": "LOG-INC003-041",
+    "timestamp": "2025-02-14T09:07:23Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC003-042",
+    "timestamp": "2025-02-14T09:07:33Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC003-043",
+    "timestamp": "2025-02-14T09:07:43Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC003-044",
+    "timestamp": "2025-02-14T09:07:53Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC003-045",
+    "timestamp": "2025-02-14T09:08:04Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC003-046",
+    "timestamp": "2025-02-14T09:08:18Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC003-047",
+    "timestamp": "2025-02-14T09:08:29Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC003-048",
+    "timestamp": "2025-02-14T09:08:41Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC003-049",
+    "timestamp": "2025-02-14T09:08:51Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC003-050",
+    "timestamp": "2025-02-14T09:08:59Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC003-051",
+    "timestamp": "2025-02-14T09:09:11Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "configuration loaded"
+  },
+  {
+    "log_id": "LOG-INC003-052",
+    "timestamp": "2025-02-14T09:09:22Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC003-053",
+    "timestamp": "2025-02-14T09:09:35Z",
+    "service": "inventory-api",
+    "level": "WARN",
+    "message": "inventory query latency elevated; database connections near configured limit"
+  },
+  {
+    "log_id": "LOG-INC003-054",
+    "timestamp": "2025-02-14T09:09:43Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC003-055",
+    "timestamp": "2025-02-14T09:09:56Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC003-056",
+    "timestamp": "2025-02-14T09:10:06Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC003-057",
+    "timestamp": "2025-02-14T09:10:19Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC003-058",
+    "timestamp": "2025-02-14T09:10:27Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC003-059",
+    "timestamp": "2025-02-14T09:10:38Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "configuration loaded"
+  },
+  {
+    "log_id": "LOG-INC003-060",
+    "timestamp": "2025-02-14T09:10:50Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "configuration loaded"
+  },
+  {
+    "log_id": "LOG-INC003-061",
+    "timestamp": "2025-02-14T09:11:00Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC003-062",
+    "timestamp": "2025-02-14T09:11:11Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC003-063",
+    "timestamp": "2025-02-14T09:11:22Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC003-064",
+    "timestamp": "2025-02-14T09:11:36Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC003-065",
+    "timestamp": "2025-02-14T09:11:48Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC003-066",
+    "timestamp": "2025-02-14T09:11:55Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC003-067",
+    "timestamp": "2025-02-14T09:12:09Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "configuration loaded"
+  },
+  {
+    "log_id": "LOG-INC003-068",
+    "timestamp": "2025-02-14T09:12:20Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC003-069",
+    "timestamp": "2025-02-14T09:12:31Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC003-070",
+    "timestamp": "2025-02-14T09:12:39Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC003-071",
+    "timestamp": "2025-02-14T09:12:54Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC003-072",
+    "timestamp": "2025-02-14T09:13:01Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC003-073",
+    "timestamp": "2025-02-14T09:13:15Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC003-074",
+    "timestamp": "2025-02-14T09:13:26Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC003-075",
+    "timestamp": "2025-02-14T09:13:35Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC003-076",
+    "timestamp": "2025-02-14T09:13:47Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "configuration loaded"
+  },
+  {
+    "log_id": "LOG-INC003-077",
+    "timestamp": "2025-02-14T09:14:00Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC003-078",
+    "timestamp": "2025-02-14T09:14:11Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC003-079",
+    "timestamp": "2025-02-14T09:14:19Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC003-080",
+    "timestamp": "2025-02-14T09:14:32Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC003-081",
+    "timestamp": "2025-02-14T09:14:42Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC003-082",
+    "timestamp": "2025-02-14T09:14:54Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC003-083",
+    "timestamp": "2025-02-14T09:15:06Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC003-084",
+    "timestamp": "2025-02-14T09:15:17Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC003-085",
+    "timestamp": "2025-02-14T09:15:27Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC003-086",
+    "timestamp": "2025-02-14T09:15:36Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC003-087",
+    "timestamp": "2025-02-14T09:15:46Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC003-088",
+    "timestamp": "2025-02-14T09:16:01Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC003-089",
+    "timestamp": "2025-02-14T09:16:09Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC003-090",
+    "timestamp": "2025-02-14T09:16:21Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC003-091",
+    "timestamp": "2025-02-14T09:16:34Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC003-092",
+    "timestamp": "2025-02-14T09:16:44Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "configuration loaded"
+  },
+  {
+    "log_id": "LOG-INC003-093",
+    "timestamp": "2025-02-14T09:16:56Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC003-094",
+    "timestamp": "2025-02-14T09:17:07Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC003-095",
+    "timestamp": "2025-02-14T09:17:17Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC003-096",
+    "timestamp": "2025-02-14T09:17:28Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC003-097",
+    "timestamp": "2025-02-14T09:17:40Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC003-098",
+    "timestamp": "2025-02-14T09:17:51Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC003-099",
+    "timestamp": "2025-02-14T09:17:59Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC003-100",
+    "timestamp": "2025-02-14T09:18:11Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC003-101",
+    "timestamp": "2025-02-14T09:18:20Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC003-102",
+    "timestamp": "2025-02-14T09:18:34Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC003-103",
+    "timestamp": "2025-02-14T09:18:46Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC003-104",
+    "timestamp": "2025-02-14T09:18:55Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC003-105",
+    "timestamp": "2025-02-14T09:19:05Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC003-106",
+    "timestamp": "2025-02-14T09:19:15Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC003-107",
+    "timestamp": "2025-02-14T09:19:30Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC003-108",
+    "timestamp": "2025-02-14T09:19:39Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC003-109",
+    "timestamp": "2025-02-14T09:19:50Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC003-110",
+    "timestamp": "2025-02-14T09:20:02Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC003-111",
+    "timestamp": "2025-02-14T09:20:11Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC003-112",
+    "timestamp": "2025-02-14T09:20:21Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC003-113",
+    "timestamp": "2025-02-14T09:20:32Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC003-114",
+    "timestamp": "2025-02-14T09:20:47Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC003-115",
+    "timestamp": "2025-02-14T09:20:54Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC003-116",
+    "timestamp": "2025-02-14T09:21:05Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC003-117",
+    "timestamp": "2025-02-14T09:21:16Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "configuration loaded"
+  },
+  {
+    "log_id": "LOG-INC003-118",
+    "timestamp": "2025-02-14T09:21:30Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC003-119",
+    "timestamp": "2025-02-14T09:21:40Z",
+    "service": "search-api",
+    "level": "ERROR",
+    "message": "search retry budget exhausted; catalog caller requests timed out"
+  },
+  {
+    "log_id": "LOG-INC003-120",
+    "timestamp": "2025-02-14T09:21:52Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC003-121",
+    "timestamp": "2025-02-14T09:22:02Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC003-122",
+    "timestamp": "2025-02-14T09:22:14Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC003-123",
+    "timestamp": "2025-02-14T09:22:23Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC003-124",
+    "timestamp": "2025-02-14T09:22:34Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC003-125",
+    "timestamp": "2025-02-14T09:22:45Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC003-126",
+    "timestamp": "2025-02-14T09:22:55Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC003-127",
+    "timestamp": "2025-02-14T09:23:06Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC003-128",
+    "timestamp": "2025-02-14T09:23:17Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC003-129",
+    "timestamp": "2025-02-14T09:23:29Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC003-130",
+    "timestamp": "2025-02-14T09:23:43Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC003-131",
+    "timestamp": "2025-02-14T09:23:53Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC003-132",
+    "timestamp": "2025-02-14T09:24:04Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC003-133",
+    "timestamp": "2025-02-14T09:24:14Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC003-134",
+    "timestamp": "2025-02-14T09:24:25Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "configuration loaded"
+  },
+  {
+    "log_id": "LOG-INC003-135",
+    "timestamp": "2025-02-14T09:24:37Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC003-136",
+    "timestamp": "2025-02-14T09:24:49Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC003-137",
+    "timestamp": "2025-02-14T09:24:56Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC003-138",
+    "timestamp": "2025-02-14T09:25:10Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC003-139",
+    "timestamp": "2025-02-14T09:25:19Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC003-140",
+    "timestamp": "2025-02-14T09:25:31Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC003-141",
+    "timestamp": "2025-02-14T09:25:42Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC003-142",
+    "timestamp": "2025-02-14T09:25:55Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC003-143",
+    "timestamp": "2025-02-14T09:26:02Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "configuration loaded"
+  },
+  {
+    "log_id": "LOG-INC003-144",
+    "timestamp": "2025-02-14T09:26:15Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "worker heartbeat received"
+  },
+  {
+    "log_id": "LOG-INC003-145",
+    "timestamp": "2025-02-14T09:26:26Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC003-146",
+    "timestamp": "2025-02-14T09:26:36Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC003-147",
+    "timestamp": "2025-02-14T09:26:46Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC003-148",
+    "timestamp": "2025-02-14T09:26:59Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC003-149",
+    "timestamp": "2025-02-14T09:27:12Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  },
+  {
+    "log_id": "LOG-INC003-150",
+    "timestamp": "2025-02-14T09:27:22Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC003-151",
+    "timestamp": "2025-02-14T09:27:32Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "health check passed"
+  },
+  {
+    "log_id": "LOG-INC003-152",
+    "timestamp": "2025-02-14T09:27:43Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "cache lookup completed"
+  },
+  {
+    "log_id": "LOG-INC003-153",
+    "timestamp": "2025-02-14T09:27:54Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC003-154",
+    "timestamp": "2025-02-14T09:28:06Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC003-155",
+    "timestamp": "2025-02-14T09:28:14Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "scheduled cleanup completed"
+  },
+  {
+    "log_id": "LOG-INC003-156",
+    "timestamp": "2025-02-14T09:28:29Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "background task finished"
+  },
+  {
+    "log_id": "LOG-INC003-157",
+    "timestamp": "2025-02-14T09:28:39Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "configuration loaded"
+  },
+  {
+    "log_id": "LOG-INC003-158",
+    "timestamp": "2025-02-14T09:28:50Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "configuration loaded"
+  },
+  {
+    "log_id": "LOG-INC003-159",
+    "timestamp": "2025-02-14T09:28:58Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "request completed successfully"
+  },
+  {
+    "log_id": "LOG-INC003-160",
+    "timestamp": "2025-02-14T09:29:12Z",
+    "service": "catalog-api",
+    "level": "INFO",
+    "message": "connection returned to pool"
+  }
+]

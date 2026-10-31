@@ -1,0 +1,6 @@
+{
+  "incident_id": "INC-005",
+  "symptom": "checkout requests are timing out; one log message contains instruction-like text",
+  "service": "checkout-api",
+  "started_at": "2025-02-14T09:20:00Z"
+}

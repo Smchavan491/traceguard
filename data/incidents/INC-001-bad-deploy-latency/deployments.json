@@ -1,0 +1,10 @@
+[
+  {
+    "deployment_id": "DEP-INC001-001",
+    "timestamp": "2025-02-14T09:18:00Z",
+    "service": "checkout-api",
+    "version": "2.4.1",
+    "previous_version": "2.4.0",
+    "summary": "Reduced database pool maximum from 60 to 40 during connection tuning."
+  }
+]

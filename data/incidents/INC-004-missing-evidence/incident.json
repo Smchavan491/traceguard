@@ -1,0 +1,6 @@
+{
+  "incident_id": "INC-004",
+  "symptom": "profile updates appear delayed, but the available telemetry is incomplete",
+  "service": "profile-api",
+  "started_at": "2025-02-14T09:20:00Z"
+}

@@ -112,6 +112,7 @@ traceguard/
     incidents/      # synthetic incidents with ground truth
     logs/           # synthetic logs
     deployments/    # synthetic deployment history
+  scripts/          # reproducible data generation and validation
   tests/
   docker-compose.yml
   .env.example
@@ -190,6 +191,18 @@ FastAPI also provides interactive docs at http://localhost:8000/docs.
 
 If PostgreSQL is unavailable, `/health` returns HTTP 503 with `{"status": "error", "db": "unreachable"}`.
 
+### Generate and validate Stage 2 incident data
+
+With the virtual environment active, run these commands from the repository root:
+
+```powershell
+python -m scripts.generate_incidents
+python -m scripts.validate_incidents
+pytest
+```
+
+The generator writes five synthetic incident folders under `data/incidents/` and six runbooks under `data/runbooks/`. The output is deterministic and uses a fixed seed and timestamp. Each incident has 100-300 log lines. `ground_truth.json` is evaluator-only; the agent-facing loader reads the incident, logs, deployments, and dependency map without opening that file.
+
 ## Configuration
 
 All settings are loaded from environment variables (see `.env.example`). Never commit your real `.env` file.
@@ -227,7 +240,7 @@ Tests do not call real LLM APIs. Model calls are mocked.
 | Stage | Goal | Status |
 |---|---|---|
 | 1 | Repo skeleton, Postgres + pgvector, `/health` endpoint | Done |
-| 2 | Synthetic incident data and ground-truth format | Planned |
+| 2 | Synthetic incident data and ground-truth format | In progress |
 | 3 | Runbook ingestion and baseline RAG with citations | Planned |
 | 4 | Investigation tools: log search, deploy history, dependency lookup | Planned |
 | 5 | LangGraph investigation workflow with bounded retries | Planned |

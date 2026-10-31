@@ -1,0 +1,6 @@
+{
+  "incident_id": "INC-001",
+  "symptom": "checkout-api p95 latency rose from 200 ms to 3 s after a deployment",
+  "service": "checkout-api",
+  "started_at": "2025-02-14T09:20:00Z"
+}
