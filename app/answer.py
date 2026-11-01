@@ -54,8 +54,10 @@ def build_system_prompt(chunks: list[tuple[str, str]]) -> str:
 def parse_answer(raw: str) -> Answer:
     """Turn the model's text reply into a validated Answer.
 
-    Removes markdown fences if the model added them. Raises ValueError
-    if the reply is not valid JSON in the right shape.
+    Cuts out everything before the first { and after the last }, then
+    checks the shape. Raises ValueError if there is no JSON or the
+    boxes are wrong.
     """
-    cleaned = re.sub(r"^```(?:json)?|```$", "", raw.strip(), flags=re.MULTILINE).strip()
-    return Answer.model_validate_json(cleaned)
+    start = raw.index("{")        # position of the first {
+    end = raw.rindex("}") + 1     # position of the last }, plus 1 to include it
+    return Answer.model_validate_json(raw[start:end])
